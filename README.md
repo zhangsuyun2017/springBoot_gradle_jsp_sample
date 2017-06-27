@@ -1,5 +1,7 @@
 # springBoot_gradle_jsp_sample
+
 1）简单的使用gradle+springboot+jsp的使用；
+
 2）可以打jar包，也可以打war包，打jar使用的启动类配置如下：
 @SpringBootApplication
 public class App {

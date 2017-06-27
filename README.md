@@ -1,0 +1,2 @@
+# springBoot_gradle_jsp_sample
+简单的使用gradle+springboot+jsp的使用
